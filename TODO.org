@@ -1,0 +1,3 @@
+* 2017-05-25
+** TaskTree
+*** TODO Figure out why I can't filter based on CSS class
